@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 first line
 2 nd line
+=======
+>>>>>>> parent of 1e9af1e... Update 4.txt
